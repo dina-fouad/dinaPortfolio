@@ -23,7 +23,7 @@ import { Button, Card, Container, Row, Col } from "reactstrap";
 // core components
 import DemoNavbar from "components/Navbars/DemoNavbar.js";
 import SimpleFooter from "components/Footers/SimpleFooter.js";
-import profile from "assets/img/theme/team-4-800x800.jpg";
+import profile from "assets/img/theme/dina.jpg";
 
 class Profile extends React.Component {
   componentDidMount() {
@@ -112,43 +112,41 @@ class Profile extends React.Component {
                           <span className="description">Friends</span>
                         </div>
                         <div>
-                          <span className="heading">10</span>
-                          <span className="description">Photos</span>
+                          <span className="heading">0</span>
+                          <span className="description">experience</span>
                         </div>
                         <div>
-                          <span className="heading">89</span>
-                          <span className="description">Comments</span>
+                          <span className="heading">2</span>
+                          <span className="description">projects</span>
                         </div>
                       </div>
                     </Col>
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
-                      Jessica Jones{" "}
+                      Dina Fouad{" "}
                       <span className="font-weight-light">, 27</span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
-                      Bucharest, Romania
+                      Amman, Jordan
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Solution Manager - Creative Tim Officer
+                      Software Development Student in ASAC
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of Computer Science
+                      University of Jordan
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                        Ever since writing my first program in visual basic in school and manipulating it to produce a desired output, I have been obsessed with the idea of using software to solve practical problems
+Although I studied French language and literature then worked in tourism field, I still have a dream to enter the world of programming.
+This passion carried me to apply to the software development scholarship offered by Abdul Aziz Al Ghurair school of Advanced Computing at Luminus Technical University Collegue , Here there are more resources available to me than I could ever have imagined, now I am learning HTMl/CSS/Java script, It's like magic how I am almost able to get the computer to do whatever, just by typing in these funny little symbols.
                         </p>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more

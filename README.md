@@ -226,3 +226,40 @@ Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
 Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
 
 Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+
+## live URL :
+https://dinafouad.netlify.app/
+
+
+## lab 5:
+Number and name of feature: ________________________________
+
+Deploy: As a user, I want to view a unique portfolio online, so that the skills and personality of the developer are portrayed.
+
+Profile Page: As a user, I want to know all about the developer's professional history and values along with their personality.
+
+Nav, Header and Footer: As a user, I want a clean, easy to use UX so I can easily find the information that I want and know what I am looking at.
+
+Portfolio Page: As a user, I want to see previous projects that the developer has worked on, so that I can evaluate their skills.
+
+Personalize: As a user, I want the site to reflect the personal style and feel of the developer, so that I can distinguish them from the average dev.
+
+Estimate of time needed to complete: _____
+
+each one need 20min
+
+Start time: _____Finish time: _____
+
+1:00-1:30
+
+1:30-2:00
+
+2:00-2:30
+
+2:30-3:00
+
+3:30-4:00
+
+Actual time needed to complete: _____
+
+each one needed 30min
